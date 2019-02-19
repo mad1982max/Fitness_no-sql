@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"fit.clients"},{"v":2,"key":{"fullname":1,"phone":-1},"name":"fullname_1_phone_-1","ns":"fit.clients","background":true}],"uuid":"5653859823b84d36bb1aa237427e1e0a"}

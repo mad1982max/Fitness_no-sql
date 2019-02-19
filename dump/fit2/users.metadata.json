@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"fit2.users"},{"v":2,"unique":true,"key":{"psw":1},"name":"psw_1","ns":"fit2.users","background":true}],"uuid":"bef7d2bbcd954b10a2db215e73e0ad50"}

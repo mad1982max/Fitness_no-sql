@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"fit2.coaches"},{"v":2,"unique":true,"key":{"fullname":1,"phone":1},"name":"fullname_1_phone_1","ns":"fit2.coaches","background":true}],"uuid":"be264a4d50584a4588f8998cfa331fd6"}
